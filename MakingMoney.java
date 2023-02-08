@@ -1,11 +1,5 @@
-/* 
- *  Sahil Rana
- *  
- *  Student Number = 300340146
- *  
- *  This  is a MakingMoney program which  compute the worth of an investment today after a given period of time!
- *  
- */
+// This  is a MakingMoney program which  compute the worth of an investment today after a given period of time!
+ 
 import java.util.Scanner;
 public class MakingMoney{
     public static void main(String[] args){
