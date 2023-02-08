@@ -1,8 +1,5 @@
-/* 
- * Sahil Rana
- * Student Number = 300340146
- * A program to ask user for the type of candy they would like to purchase and the quantity . Based on their selection and quantity purchased, calculater the total price including any discount that may apply
- */
+// A program to ask user for the type of candy they would like to purchase and the quantity . Based on their selection and quantity purchased, calculater the total price including any discount that may apply
+
 import java.util.Scanner;
 public class Candyshop{
     public static void main(String[] args){
