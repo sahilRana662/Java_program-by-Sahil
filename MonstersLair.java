@@ -1,9 +1,6 @@
-/*
- *    Sahil Rana
- *    Student Number = 300340146
- *    This is a program  MonstersLair that simulates a hero battling monsters. The
- *    hero must defeat the monster by choosing the correct attack (magical, agile, or strong).
- */
+/*    This is a program  MonstersLair that simulates a hero battling monsters. The
+    hero must defeat the monster by choosing the correct attack (magical, agile, or strong). */
+ 
 import java.util.Scanner;
 public class MonstersLair{
     public static void main(String[] args){
