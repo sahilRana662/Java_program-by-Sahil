@@ -1,3 +1,8 @@
+/* Mad Libs is a word game where you substitute words in a story to create a silly narrative. 
+ The game will prompt the user to enter a set of words, 
+such as nouns, verbs, adjectives, etc., and then use those words to fill in the blanks in a story.  
+*/
+
 
 import java.util.Scanner;
 
