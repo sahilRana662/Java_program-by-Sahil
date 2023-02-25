@@ -1,5 +1,6 @@
 /*    This is a program  MonstersLair that simulates a hero battling monsters. The
     hero must defeat the monster by choosing the correct attack (magical, agile, or strong).
+    The hero will have 3 lives. The game will over if hero defeated 3 monsters or hero looses all his 3 lives i.e monster defeated 3 times.
     
  */
  
